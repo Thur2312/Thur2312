@@ -10,6 +10,7 @@
   - Java
   - Python
 ## ➕FrameWorks:
+  - React
   - Express
   - NodeJs
   - NestJs
